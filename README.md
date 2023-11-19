@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Travel App Landing Page
+
+The Travel App Landing Page is a web application built with React and Next.js. It serves as the landing page for a travel app, providing users with a visually appealing introduction to the features and offerings of the app.
+
+<img src="https://i.gyazo.com/797e9d4a154a569dabbde8793eeb3c6e.png"/>
+
+## Features
+
+- **Responsive Design**: The landing page is designed to provide a seamless experience across various devices and screen sizes.
+- **Interactive Elements**: Engage users with interactive elements that highlight key features of the travel app.
+- **Next.js**: Utilizes Next.js for server-side rendering and optimized performance.
+- **Custom Styling**: Styled components and CSS for a visually appealing and consistent look.
+
+<img src="https://i.gyazo.com/afcc8fde42e12775b9883c1e45899e46.jpg" />
+
+## Demo
+
+Check out the live demo [here](https://travel-app-inky-gamma.vercel.app/).
 
 ## Getting Started
 
-First, run the development server:
+To run this project locally, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Clone this repository to your local machine:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+   ```bash
+   git clone https://github.com/your-username/travel-app-landing-page.git
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+2. Navigate to the project directory: cd travel-app-landing-page
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+3. Install dependencies: npm install
 
-## Learn More
+4. Start the development server: npm run dev
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Open your browser and go to http://localhost:3000 to view the landing page.
